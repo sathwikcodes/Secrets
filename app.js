@@ -219,5 +219,5 @@ app.post("/login",function(req,res){
 
 
 app.listen(300, function(){
-    console.log("Server Started on port 3000");
+    console.log("Server Started on port 300");
 });
