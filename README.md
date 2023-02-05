@@ -38,3 +38,11 @@ This Website is Built using Node.js and Express.js and MonogoDb for Database Han
  2) The Secret of Individual User is stored in mongoDb server including their Details acquired from Google/Facebook.
 
  3) Users can view their Secrets by logging in or add a new one by registering using Google/Facebook Login.
+ 
+ 
+ <p align="center" >
+ <img src="images/Screenshot (10).png" width="70%"> </p>
+  <p align="center" >
+ <img src="images/Screenshot (9).png" width="70%"> </p> 
+  <p align="center" >
+ <img src="images/Screenshot (8).png" width="70%"> </p> 
