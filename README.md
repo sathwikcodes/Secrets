@@ -1,4 +1,4 @@
-# Secrets
+# Secrets (Authentication Using Google Oauth 2.0)
 
 ## Getting Started
 
